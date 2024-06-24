@@ -1,8 +1,0 @@
-{
-  "extends": "@typical/config/src/tsconfig.base.json",
-  "compilerOptions": {
-    "baseUrl": "../../../",
-  },
-  "include": ["src/**/*", "src/**/*.vue"],
-  "exclude": ["node_modules", "**/*.d.ts", "**/*.d.ts.map"],
-}

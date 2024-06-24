@@ -1,1 +1,0 @@
-export { ViteConfigBase, Aliases } from './src/vite.config.base.js'
