@@ -13,4 +13,4 @@ Well, I don't regret spending 4 years on this. I learned a lot. And I don't regr
 
 ## Demo
 
-You can find the demo here: https://rusinas.github.io/typical (works correctly only in Google Chrome)
+You can find the demo here: https://rusinas.github.io/typical (works correctly only in Google Chrome, but has some minor bugs)
