@@ -1,0 +1,14 @@
+{
+  "name": "@typical/config",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "main": "index.js",
+  "types": "index.js",
+  "files": [
+    "./src"
+  ],
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}

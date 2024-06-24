@@ -1,0 +1,21 @@
+{
+  "name": "@typical/text",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.45"
+  },
+  "dependencies": {
+    "lodash.merge": "^4.6.2",
+    "@typical/utils": "workspace:*",
+    "@typical/ui": "workspace:*"
+
+  },
+  "devDependencies": {
+    "@typical/config": "workspace:*"
+  }
+}

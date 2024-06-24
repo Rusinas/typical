@@ -1,0 +1,15 @@
+{
+  "name": "@typical/utils",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@typical/config": "workspace:*"
+  }
+}

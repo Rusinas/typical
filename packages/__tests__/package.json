@@ -1,0 +1,14 @@
+{
+  "name": "@typical/tests",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite-plugin-vue-type-imports": "^0.2.5"
+  },
+  "dependencies": {
+    "@typical/utils": "workspace:*"
+  }
+}

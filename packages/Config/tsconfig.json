@@ -1,0 +1,11 @@
+{
+  // "extends": "@typical/config/src/tsconfig.base.json",
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue", "vite.config.ts"],
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "baseUrl": "../../",
+  },
+}
