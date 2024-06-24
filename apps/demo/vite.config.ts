@@ -6,6 +6,7 @@ import vue from '@vitejs/plugin-vue'
 export default mergeConfig(
   ViteConfigBase,
   {
+    base: '/typical/',
     plugins: [vue()],
   }
 )
